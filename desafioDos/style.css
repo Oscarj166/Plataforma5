@@ -1,0 +1,30 @@
+* {
+    text-align: center;
+    font-family: 'Rubik Distressed', cursive;
+    font-family: 'Rye', cursive;
+    font-family: 'Tangerine', cursive;
+}
+
+body {
+    color: green;
+    font-size: 30px;
+}
+
+h1 {
+background-color: aquamarine;
+}
+
+.imagen {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+
+.continuar button :hover {
+    font-size: 35px;
+    display: inline-block;
+    background-color: aqua;
+    padding: 25px;
+    color: blue;
+
+}

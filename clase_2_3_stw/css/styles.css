@@ -1,0 +1,59 @@
+
+body {
+    background: url(https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_1280.png);
+}
+
+.centrar {
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
+
+h1, h2, h3 {
+    color: rgba(68, 157, 209, 0.755);
+}
+
+.malos {
+    background-color: red;
+}
+
+.centro {
+text-align: center;
+}
+.los malos {
+    background-color: red;
+}
+#taho {
+    font-style: oblique;
+}
+.buenos {
+    background-color: rgb(83, 83, 171);
+}
+ul {
+    list-style: none;
+}
+#vader {
+    font-size: 2em;
+    font-weight: lighter;
+
+    color: azure;
+    background-color: brown;
+    
+}#Luke {
+    font-size: 2em;
+    font-weight: lighter;
+
+    color: azure;
+    background-color: brown;
+}
+#original {
+    font-size: 2em;
+    font-weight: lighter;
+
+    color: azure;
+    background-color: brown;
+}
+
